@@ -6,4 +6,4 @@ This project is for a course in automating Javascript testing using Jasmine. All
 ## How to use
 
 You will need to download all of the files in the GitHub repository github.com/Marty-Schaub/frontend-nanodegree-feedreader
-Then simply open the index.html file in your browser. 
+Then simply open the index.html file in your browser. The feedreader.js file is for the Jasmine testing. 
